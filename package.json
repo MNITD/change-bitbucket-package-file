@@ -1,0 +1,24 @@
+{
+  "name": "change-bitbucket-package-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-package-version.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNITD/change-bitbucket-package-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNITD/change-bitbucket-package-file/issues"
+  },
+  "homepage": "https://github.com/MNITD/change-bitbucket-package-file#readme",
+  "dependencies": {
+    "bitbucket": "^2.6.3",
+    "dotenv": "^10.0.0",
+    "form-data": "^4.0.0"
+  }
+}
